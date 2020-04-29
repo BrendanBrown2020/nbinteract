@@ -2,3 +2,6 @@ ipywidgets
 functools
 math
 datetime
+_future_
+datetime
+ipywidgets.embed
